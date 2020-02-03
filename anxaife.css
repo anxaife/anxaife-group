@@ -1,0 +1,88 @@
+.placeholder-aligncenter input[type="number"]::placeholder {  
+    text-align: center;
+}
+
+.placeholder-aligncenter input[type="password"]::placeholder {  
+    text-align: center;
+}
+
+.placeholder-aligncenter input[type="url"]::placeholder {  
+    text-align: center;
+}
+
+.placeholder-aligncenter input[type="email"]::placeholder {  
+    text-align: center;
+}
+
+.placeholder-aligncenter input[type="text"]::placeholder {  
+    text-align: center;
+}
+.placeholder-aligncenter input[type="search"]::placeholder {  
+    text-align: center;
+}
+.placeholder-alignleft input[type="number"]::placeholder {  
+    text-align: left;
+}
+
+.placeholder-alignleft input[type="password"]::placeholder {  
+    text-align: left;
+}
+
+.placeholder-alignleft input[type="url"]::placeholder {  
+    text-align: left;
+}
+
+.placeholder-alignleft input[type="email"]::placeholder {  
+    text-align: left;
+}
+
+.placeholder-alignleft input[type="text"]::placeholder {  
+    text-align: left;
+}
+.placeholder-alignleft input[type="search"]::placeholder {  
+    text-align: left;
+}
+.placeholder-alignright input[type="number"]::placeholder {  
+    text-align: right;
+}
+
+.placeholder-alignright input[type="password"]::placeholder {  
+    text-align: right;
+}
+
+.placeholder-alignright input[type="url"]::placeholder {  
+    text-align: right;
+}
+
+.placeholder-alignright input[type="email"]::placeholder {  
+    text-align: right;
+}
+
+.placeholder-alignright input[type="text"]::placeholder {  
+    text-align: right;
+}
+.placeholder-alignright input[type="search"]::placeholder {  
+    text-align: right;
+}
+
+.hackertema {
+    background-color: black;
+    color: rgb(32, 194, 14);
+}
+.placeholdercolorhacker input[type="number"]::placeholder { 
+    color:rgb(32, 194, 14);
+    opacity: 1;
+  }
+.placeholdercolorhacker input[type="text"]::placeholder { 
+    color:rgb(32, 194, 14);
+    opacity: 1;
+  }
+.placeholdercolorhacker input[type="email"]::placeholder { 
+    color:rgb(32, 194, 14);
+    opacity: 1;
+  }
+.placeholdercolorhacker input[type="password"]::placeholder { 
+    color:rgb(32, 194, 14);
+    opacity: 1;
+  }
+ 
