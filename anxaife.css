@@ -72,7 +72,7 @@
 .placeholdercolorhacker input[type="number"]::placeholder { 
     color:rgb(32, 194, 14);
     opacity: 1;
-    background-color: black;
+    background-color: red;
   }
 .placeholdercolorhacker input[type="text"]::placeholder { 
     color:rgb(32, 194, 14);
