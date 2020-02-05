@@ -1,4 +1,2 @@
 # anxaife-group
-/* https://statically.io 
-https://cdn.statically.io/gh/anxaife/anxaife-group/15bc2973/anxaife.css
-*/
+<link rel="stylesheet" href="http://anxaife.epizy.com/anxaife.css">
